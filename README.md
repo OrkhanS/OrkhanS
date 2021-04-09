@@ -7,16 +7,18 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
--->### Hi there 👋
+-->
 BSc. Computer Engineering at METU.
 
 
 ![Orkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=orkhanS&show_icons=true&count_private=true&theme=radical&)
 
 <img align="left" alt="Git" width="40px" height="40px" src="https://github.com/OrkhanS/OrkhanS/raw/main/linux.png" />
+<br><br><br>
 
 
-Technologies & Tools
+
+<b>Technologies & Tools</b>
 
 ![](https://img.shields.io/badge/-informational?style=flat&logo=c&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blue)
@@ -33,7 +35,7 @@ Technologies & Tools
 
 
 
-Services:
+<b>Services</b>
 
 ![](https://img.shields.io/badge/-AWS.EC2-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 ![](https://img.shields.io/badge/-AWS.S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=red)
@@ -41,7 +43,7 @@ Services:
 ![](https://img.shields.io/badge/-Google.Storages-informational?style=flat&logo=icloud&logoColor=white&color=4285F4)
 
 
-Familiarity:
+<b>Familiarity</b>
 
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
