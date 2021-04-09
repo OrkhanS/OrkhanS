@@ -7,14 +7,34 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
--->
-
+-->### Hi there 👋
 BSc. Computer Engineering at METU.
 
 
 ![Orkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=orkhanS&show_icons=true&count_private=true&theme=radical&)
 
-## Databases:
-<img align="left" alt="Git" width="26px" src="https://github.com/OrkhanS/OrkhanS/raw/main/postgresql.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/OrkhanS/OrkhanS/raw/main/mysql.png" />
+<img align="left" alt="Git" width="40px" height="40px" src="https://github.com/OrkhanS/OrkhanS/raw/main/linux.png" />
+<br><br>
+Languages:
+![](https://img.shields.io/badge/-informational?style=flat&logo=c&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/-Php-informational?style=flat&logo=php&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Larevel-informational?style=flat&logo=laravel&logoColor=white&color=red)
+<br><br>
+
+Databases:
+![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=orange)
+![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+<br><br>
+Services:
+![](https://img.shields.io/badge/-AWS.EC2-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
+![](https://img.shields.io/badge/-AWS.S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=red)
+![](https://img.shields.io/badge/-Google.Compute-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/-Google.Storages-informational?style=flat&logo=icloud&logoColor=white&color=4285F4)
+<br><br>
+Familiarity:
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=blue)
 
