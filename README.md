@@ -15,13 +15,14 @@ BSc. Computer Engineering at METU.
 
 <img align="left" alt="Git" width="40px" height="40px" src="https://github.com/OrkhanS/OrkhanS/raw/main/linux.png" />
 <br><br>
+
 Languages:
 ![](https://img.shields.io/badge/-informational?style=flat&logo=c&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/-Php-informational?style=flat&logo=php&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Larevel-informational?style=flat&logo=laravel&logoColor=white&color=red)
-<br><br>
+
 
 Databases:
 ![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=orange)
