@@ -12,11 +12,13 @@ BSc. Computer Engineering at METU.
 
 
 <a href="http://orkhansalahov.info/">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=orkhanS&show_icons=true&count_private=true" />
+   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=orkhanS&show_icons=true&count_private=true" />
   </a>
 <a href="http://orkhansalahov.info/">
   <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orkhans&repo=portfolio" />
 </a>
+<br><br>
+
 <img align="left" alt="Git" width="40px" height="40px" src="https://github.com/OrkhanS/OrkhanS/raw/main/linux.png" />
 <br><br><br>
 
