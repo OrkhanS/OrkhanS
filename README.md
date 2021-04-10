@@ -11,7 +11,7 @@
 BSc. Computer Engineering at METU.
 
 
-<a href="http://orkhansalahov.info/">
+<a href="http://orkhansalahov.info/" >
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=orkhanS&show_icons=true&count_private=true" />
   </a>
 <a href="http://orkhansalahov.info/">
@@ -31,12 +31,14 @@ BSc. Computer Engineering at METU.
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=grey)
 ![](https://img.shields.io/badge/-Larevel-informational?style=flat&logo=laravel&logoColor=white&color=red)
-![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=orange)
-![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/-Lumen-informational?style=flat&logo=lumen&logoColor=white&color=E74430)
 
 
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=02569B)
 ![](https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
+![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=orange)
+![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+
 
 
 
