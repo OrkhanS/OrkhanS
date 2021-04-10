@@ -11,7 +11,9 @@
 BSc. Computer Engineering at METU.
 
 
-![Orkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=orkhanS&show_icons=true&count_private=true)
+<a href="http://orkhansalahov.info/">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=orkhanS&show_icons=true&count_private=true" />
+  </a>
 <a href="http://orkhansalahov.info/">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=orkhans&repo=portfolio_website" />
 </a>
