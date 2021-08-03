@@ -1,15 +1,16 @@
 ### Hi there 👋
 
+
 <!--
 **OrkhanS/OrkhanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-🔭 I’m currently working on [System73](https://system73.com/)
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
 -->
 BSc. Computer Engineering at METU.
 
+🔭 I’m currently working on [System73](https://system73.com/)
 
 <a href="http://orkhansalahov.info/" >
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=orkhanS&show_icons=true&count_private=true" />
